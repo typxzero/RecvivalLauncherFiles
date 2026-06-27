@@ -1,1 +1,13 @@
-
+{
+  "name": "Radium",
+  "date": "2021-01-29",
+  "donate": "https://ko-fi.com/recroomarchive"
+  "downloads": {
+    "windows": "https://cdn.recroomarchive.org/radium/game-client/production/toukeh24kq6w2v4lndyc4z0pblvfyj75/windows/client.zip",
+    "linux": "https://cdn.recroomarchive.org/radium/game-client/production/toukeh24kq6w2v4lndyc4z0pblvfyj75/windows/client.zip"
+  },
+  "installationInstructions": {
+    "windows": "https://raw.githubusercontent.com/typxzero/RecvivalLauncherFiles/refs/heads/main/InstallationInstructions/Radium/Install.bat",
+    "linux": "https://raw.githubusercontent.com/typxzero/RecvivalLauncherFiles/refs/heads/main/InstallationInstructions/Radium/Install.sh"
+  }
+}
